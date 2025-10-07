@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\application\\service\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\application\\service\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\application\\interface\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\application\\interface\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\infrastructure\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\infrastructure\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\domain\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\domain\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\application\\utils\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\application\\utils\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\application\\service\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\application\\service\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\infrastructure\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\infrastructure\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\domain\\interface\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\domain\\interface\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\domain\\interface\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\domain\\interface\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\application\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\application\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\application\\utils\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\application\\utils\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|d:\\maktabsharif\\dev\\projects\\hw14\\atm\\atm\\migrations\\20251006103818_addverificationcodetimetocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376202B-0C4D-492E-860E-6234B4A2E173}|ATM\\ATM.csproj|solutionrelative:atm\\migrations\\20251006103818_addverificationcodetimetocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Domain\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "ATM\\Domain\\Entities\\Card.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Domain\\Entities\\Card.cs",
+              "RelativeToolTip": "ATM\\Domain\\Entities\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:37:35.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Service\\CardService.cs",
+              "RelativeDocumentMoniker": "ATM\\Application\\Service\\CardService.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Service\\CardService.cs",
+              "RelativeToolTip": "ATM\\Application\\Service\\CardService.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:24:37.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Infrastructure\\Repository\\CardRepository.cs",
+              "RelativeDocumentMoniker": "ATM\\Infrastructure\\Repository\\CardRepository.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Infrastructure\\Repository\\CardRepository.cs",
+              "RelativeToolTip": "ATM\\Infrastructure\\Repository\\CardRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:39:06.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Generation.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Utils\\Generation.cs",
+              "RelativeDocumentMoniker": "ATM\\Application\\Utils\\Generation.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Utils\\Generation.cs",
+              "RelativeToolTip": "ATM\\Application\\Utils\\Generation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:45:02.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Infrastructure\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "ATM\\Infrastructure\\Repository\\TransactionRepository.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Infrastructure\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "ATM\\Infrastructure\\Repository\\TransactionRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:46:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ATM\\Presentation\\Program.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Presentation\\Program.cs",
+              "RelativeToolTip": "ATM\\Presentation\\Program.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAAYBAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T20:26:51.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICardService.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Interface\\ICardService.cs",
+              "RelativeDocumentMoniker": "ATM\\Application\\Interface\\ICardService.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Interface\\ICardService.cs",
+              "RelativeToolTip": "ATM\\Application\\Interface\\ICardService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:24:27.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251006103818_AddVerificationCodeTimeToCard.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Migrations\\20251006103818_AddVerificationCodeTimeToCard.cs",
+              "RelativeDocumentMoniker": "ATM\\Migrations\\20251006103818_AddVerificationCodeTimeToCard.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Migrations\\20251006103818_AddVerificationCodeTimeToCard.cs",
+              "RelativeToolTip": "ATM\\Migrations\\20251006103818_AddVerificationCodeTimeToCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:38:18.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Service\\TransactionService.cs",
+              "RelativeDocumentMoniker": "ATM\\Application\\Service\\TransactionService.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Service\\TransactionService.cs",
+              "RelativeToolTip": "ATM\\Application\\Service\\TransactionService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:11:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Domain\\Interface\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "ATM\\Domain\\Interface\\ICardRepository.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Domain\\Interface\\ICardRepository.cs",
+              "RelativeToolTip": "ATM\\Domain\\Interface\\ICardRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Interface\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "ATM\\Application\\Interface\\ITransactionService.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Interface\\ITransactionService.cs",
+              "RelativeToolTip": "ATM\\Application\\Interface\\ITransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:11:19.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Domain\\Interface\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "ATM\\Domain\\Interface\\ITransactionRepository.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Domain\\Interface\\ITransactionRepository.cs",
+              "RelativeToolTip": "ATM\\Domain\\Interface\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:03:22.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Utils\\Validation.cs",
+              "RelativeDocumentMoniker": "ATM\\Application\\Utils\\Validation.cs",
+              "ToolTip": "D:\\MaktabSharif\\dev\\projects\\HW14\\ATM\\ATM\\Application\\Utils\\Validation.cs",
+              "RelativeToolTip": "ATM\\Application\\Utils\\Validation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:45:00.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
