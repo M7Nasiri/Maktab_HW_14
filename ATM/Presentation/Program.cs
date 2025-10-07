@@ -264,7 +264,7 @@ do
                 }
                 else if (t.DestinationCardNumber == sourceCardNumber2)
                 {
-                    Console.WriteLine($"Recieve from: {t.SourceCardNumber} {t.Amount} at {t.TransactionDate}");
+                    Console.WriteLine($"Recieve from: {t.SourceCardNumber} {t.Amount} Status : {(t.IsSuccessfull?"Successfull":"UnSuccessfull")} at {t.TransactionDate}");
                 }
             }
             Console.ReadKey();
